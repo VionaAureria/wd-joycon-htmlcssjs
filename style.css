@@ -1,0 +1,19 @@
+.upbtn {
+    border-radius: 10px;
+}
+
+.leftbtn {
+    border-radius: 10px;
+}
+
+.downbtn {
+    border-radius: 10px;
+}
+
+.rightbtn {
+    border-radius: 10px;
+}
+
+canvas {
+    background-color: aquamarine;
+}
